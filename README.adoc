@@ -14,5 +14,5 @@ A collection of macOS automator workflows
 - Translate - https://github.com/agurodriguez/macos-services
 
 
-##GitHub Search by Tag
+## GitHub Search by Tag
 GitHub search by tag: https://github.com/topics/automator-workflow
