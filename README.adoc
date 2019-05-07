@@ -7,4 +7,12 @@ A collection of macOS automator workflows
 ## Development 
 - Open Folder in Visual Studio Code - https://github.com/Sankra/OpenFolderInVSCode 
 
+## Lookup
+- Crypto Address Quick Look - https://github.com/agurodriguez/macos-services
+
+## Translate
+- Translate - https://github.com/agurodriguez/macos-services
+
+
+##GitHub Search by Tag
 GitHub search by tag: https://github.com/topics/automator-workflow
