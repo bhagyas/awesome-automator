@@ -7,3 +7,4 @@ A collection of macOS automator workflows
 ## Development 
 - Open Folder in Visual Studio Code - https://github.com/Sankra/OpenFolderInVSCode 
 
+GitHub search by tag: https://github.com/topics/automator-workflow
